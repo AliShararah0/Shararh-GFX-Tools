@@ -12,7 +12,6 @@
 |---------|-------------|
 | 🚀 **Ultra Graphics** | Unlock HDR, Ultra HD, and Extreme FPS options |
 | ⚡ **High FPS** | Support for 60/90/120 FPS |
-| 📐 **Custom Resolution** | Change resolution beyond game limits |
 | 🎨 **GPU Optimization** | Reduce lag and improve performance |
 | 💻 **Low-End PC** | Special optimization for weak computers |
 | 🛡️ **Anti-Ban** | Uses safe methods only |
@@ -25,9 +24,10 @@
 1. Click the **DOWNLOAD LATEST VERSION** button above
 2. Download the ZIP file
 3. Extract the ZIP to any folder
-4. **Right-click** the EXE file → **Run as Administrator**
-5. Select your desired settings
-6. Launch GameLoop and enjoy!
+4. **Right-click** the EXE file
+5. Launch GameLoop -> (Pubg Mobile)
+6. Select your desired settings using the tool
+7. Enjoy!
 
 ---
 
@@ -39,12 +39,6 @@
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of your tool here*
-
----
-
 ## 🔄 Updates
 
 The app will **automatically notify you** when a new version is available!
@@ -53,13 +47,9 @@ Current version: `v2.0`
 
 ---
 
-## ⚠️ Disclaimer
-
-This tool is for educational purposes only. Use at your own risk.
-
----
-
 ## 📞 Contact
+
+- Discord: c313
 
 - GitHub: [@AliShararah0](https://github.com/AliShararah0)
 
