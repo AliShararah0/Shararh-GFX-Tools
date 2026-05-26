@@ -21,13 +21,17 @@
 
 ## 📥 How to Download & Use
 
-1. Click the **DOWNLOAD LATEST VERSION** button above
+1. Click the DOWNLOAD LATEST VERSION button above
 2. Download the ZIP file
 3. Extract the ZIP to any folder
-4. **Right-click** the EXE file
-5. Launch GameLoop -> (Pubg Mobile)
-6. Select your desired settings using the tool
-7. Enjoy!
+4. Right-click the EXE file and run as administrator
+5. Open GameLoop and launch PUBG Mobile
+6. FIRST TIME ONLY: Wait until you reach the lobby
+7. NEXT TIMES: Open tool before reaching lobby
+8. In the tool, press "Connect ADB" → pop-up appears → Click "Yes"
+9. Select your desired graphics settings
+10. Click "Apply" → game restarts automatically with new graphics
+11. Enjoy!
 
 ---
 
