@@ -60,7 +60,7 @@
 
 The app will **automatically notify you** when a new version is available!
 
-Current version: `v2.0`
+Current version: `v2.1`
 
 ---
 
