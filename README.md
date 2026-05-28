@@ -1,4 +1,4 @@
-# 🎮 Shararh GFX Tools
+# 🎮 Shararah GFX Tools
 
 ## [⬇️ DOWNLOAD LATEST VERSION ⬇️](https://github.com/AliShararah0/Shararh-GFX-Tools/releases/latest)
 
